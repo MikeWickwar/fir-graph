@@ -6,7 +6,7 @@ const repoPath = path.resolve(__dirname, '/Users/mike/WorkSpace/git-graph');
 const git = simpleGit(repoPath);
 
 // Starting date (change this to match the start of your design)
-const startDate = new Date(2023, 0, 1);
+const startDate = new Date(2024, 0, 1);
 
 // Define the design as a matrix (7x7 example, you can expand as needed)
 const design = [
